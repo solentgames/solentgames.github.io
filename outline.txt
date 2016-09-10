@@ -1,0 +1,144 @@
+
+Module Name                           Code  Value  Unit-Leader
+
+------------------------------------------------------------------------
+BSc Computer Games (SD) 2016 -------------------------------------------
+------------------------------------------------------------------------
+Year 1
+ Semester 1
+  Programming Fundamentals             CGP400 10 CATS Cobbs Dave	
+  Maths for Games                      CGP402 10 CATS Bennett Mark	
+  Group Project                        CGP406 20 CATS Terkeurst J	
+  Computer Graphics for Games          CGP405 20 CATS Brindley C
+ Semester 2                            
+  Object-Orientated Programming        CGP401 10 CATS Cobbs Dave
+  Game Physics                         CGP403 10 CATS Mark Bennett	 
+  Introduction to Computer Games       CGP407 20 CATS A.S. Mitchell
+  Introduction to Databases            SWD401 20 CATS Jing Lu          
+Year 2                                 
+ Semester 1                            
+  Computer Games Programming           CGP501 20 CATS Mark Bennett	
+  Mobile Game Fundamentals             CGP503 20 CATS Thomas N	
+  Gameplay and Game Design             CGP502 20 CATS Terkeurst J
+ Semester 2                            
+  Engineering Software Systems         SWD505 20 CATS Jennifer Muskett
+  Console Development                  CGP500 20 CATS Ben Kenwright	
+  Personal Dev. & Proj. Prep.          CGP504 20 CATS Mark Bennett                         
+Year 3                                 
+ Semester 1                            
+  Advanced Games Programming           CGP600 20 CATS Ben Kenwright	
+  [Opt 1]                                     20 CATS	
+  [Opt 2]                                     20 CATS	
+ Semester 2                            
+  Game Development Project             CGP601 40 CATS Christian Brindley
+  Software Systems Development         SWD605 20 CATS Rob Cooper
+                                       
+
+(Opt Level 6)
+Artificial Intelligence for Games      CGP606 20 CATS Dupee B/ Bennett Mark
+The Business of Games                  CGP604 20 CATS Mindang J
+Mobile Applications                    CGP605 20 CATS Thomas N
+Video Game Design                      CGP603 20 CATS Brindley C
+Process Analysis and Req. Engineering  SAD603 20 CATS Baron S
+Sound for Film, TV, and Games          SMT137 20 CATS Davison L
+Curriculum Plus Enterprise and Lang.   ?????? 20 CATS
+
+
+
+------------------------------------------------------------------------
+BSc Computer Games (Indie) 2016 ----------------------------------------
+------------------------------------------------------------------------
+Year 1
+ Semester 1
+  Programming Fundamentals             CGP400 10 CATS Cobbs Dave	
+  Maths for Games                      CGP402 10 CATS Bennett Mark	
+  Group Project                        CGP406 20 CATS Terkeurst J	
+  Computer Graphics for Games          CGP405 20 CATS Brindley C
+ Semester 2                            
+  Scripting for Game Engines           CGP404 10 CATS Nicholas Thomas
+  Game Physics                         CGP403 10 CATS Bennett Mark	
+  Introduction to Computer Games       CGP407 20 CATS Andrew Mitchell
+  Introduction to Databases            SWD401 20 CATS Jing Lu   
+Year 2
+ Semester 1
+  Casual Games Development             CGP505 20 CATS ?????
+  Mobile Games Fundamentals            CGP503 20 CATS Thomas N	
+  Gameplay and Game Design             CGP502 20 CATS Terkeurst J
+ Semester 2                                   
+  Engineering Software Systems         SWD505 20 CATS Sakirulai Olufemi Isiaq
+  Game Bus. and Production Management  CGP506 20 CATS ?????
+  Personal Dev. and Proj. Prep.        CGP504 20 CATS ?????
+Year 3                                        
+ Semester 1                                   
+  Mobile Applications                  CGP605 20 CATS ?????
+  [Opt 1]                                     20 CATS
+  [Opt 2]                                     20 CATS	
+ Semester 2                                   
+  Game Development Project             CGP601 40 CATS	
+  Video Game Design                    CGP603 20 CATS
+                                              
+(Opt Level 6)                                 
+Artificial Intelligence for Games      CGP606 20 CATS Dupee B/ Bennett Mark
+The Business of Games                  CGP604 20 CATS Mindang J
+Sound for Film, TV and Games           SMT137 20 CATS Davison L
+Software Systems Development           SWD605 20 CATS Brian Dupee
+Process Analysis and Req. Engineering  SAD603 20 CATS Baron S
+Computer Law and Intellectual Property ISM600 20 CATS ??????
+Curriculum Plus Enterprise or Language ?????? 20 CATS
+
+ 
+------------------------------------------------------------------------
+BSc Computer Games (Art) 2016 ------------------------------------------
+------------------------------------------------------------------------
+Year 1
+ Semester 1
+  Prop Studies                         VCA407 10 CATS Adam Barton
+  Computer-Generated Imagery 1         VCA102 20 CATS Adriaan Pottas
+  Model Building                       VCA408 20 CATS Adam Barton
+  Games Systems                        VCA410 10 CATS Arran Langmead
+ Semester 2                                  
+  Texture Creation                     VCA409 20 CATS Arran Langmead
+  Computer-Generated Imagery 2         VCA103 20 CATS ?????
+  Art and Environment Theory           AAP402 20 CATS Nicholas Hampton
+Year 2                                       
+ Semester 1                                  
+  Critical Discourse 1                 DAC501 20 CATS ?????
+  Level Design                         VCA211 20 CATS Arran Langmead
+  Game Production                      AAP411 20 CATS Adam Barton
+ Semester 2                                  
+  Advanced 3D                          VCA514 20 CATS Adam Barton
+  Option 1                                    20 CATS	
+  Option 2                                    20 CATS
+Year 3                                       
+ Semester 1                                  
+  Critical Discourse 2                 DAC600 20 CATS ?????
+  Option 1                                    20 CATS	
+  Option 2                                    20 CATS
+ Semester 2                                  
+  Games Major Project                  VCA307 40 CATS Simon Cooper	
+  Option                                      20 CATS
+                                             
+                                             
+(Option Level 5)                             
+Freelancing at Solent Creatives 1      CCA533 20 CATS Caroline Barfoot
+Freelancing at Solent Creatives 2      CCA534 20 CATS Caroline Barfoot
+Model Your Business (MYB1)             CCA517 20 CATS Nicky Curtis
+Model Your Business (MYB2)             CCA518 20 CATS Nicky Curtis
+Curriculum Plus                        ?????? 20 CATS 
+                                             
+(Option Level 6)                             
+Pre-Production: Conceptual             VCA305 20 CATS Adam Barton
+Pre-Production: Industry               VCA306 20 CATS Simon Cooper
+
+
+ 
+  
+ 
+ 
+
+
+ 
+ 
+
+
+
